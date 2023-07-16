@@ -21,6 +21,8 @@ The form inputs include the chain name, the amount to sell, and the tokens to se
 The README.md file provides detailed instructions on how to clone the repository, install dependencies, and run the automation script. Additionally, it offers guidance on customizing the automation for different websites by modifying the URL, form field values, and route selection.
 
 
+**Screenshots are there in puppeteer_project folder
+
 
 
 
